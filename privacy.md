@@ -8,6 +8,10 @@ _Last updated: 8 November 2026_
 
 Rin is a habit tracker designed to help you build routines without the pressure of streaks. Your goals and habits are yours. We've built Rin so we can't read them.
 
+## Who we are
+
+Rin is provided by Alexandra Denisova, an independent developer based in the Czech Republic, who is responsible for your data as described in this policy. Contact: [rinhabits@gmail.com](mailto:rinhabits@gmail.com)
+
 ## What we collect
 
 Rin doesn't require an account, show advertisements, or track your activity across other apps and websites.
@@ -51,10 +55,6 @@ Deleting Rin removes its data from that device. The copy in iCloud stays in your
 Your goals and habits stay on your device and in your iCloud until you remove them.
 
 TelemetryDeck keeps anonymized analytics according to its own retention practices. These events aren't linked to an account, and we can't identify a single person's analytics history. See [TelemetryDeck's privacy FAQ](https://telemetrydeck.com/docs/guides/privacy-faq/).
-
-## Children
-
-Rin isn't designed specifically for children. We don't knowingly collect children's names, contact details, or the content of their goals and habits.
 
 ## Your privacy rights
 
