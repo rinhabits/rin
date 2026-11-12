@@ -4,7 +4,7 @@ title: Privacy Policy — Rin
 
 # Privacy Policy — Rin
 
-_Last updated: 8 November 2026_
+_Last updated: 11 November 2026_
 
 Rin is a habit tracker designed to help you build routines without the pressure of streaks. Your goals and habits are yours. We've built Rin so we can't read them.
 
@@ -22,7 +22,7 @@ An event can include:
 
 - A goal's day count and how many habits it has
 - The goal's category, from Rin's own list
-- Which feature was used
+- Which feature was used, such as choosing a flower or linking a habit to Apple Health. For Apple Health, only the kind of data the habit is linked to (for example "steps") is recorded, never the data itself.
 - The app version, iOS version, iPhone model and screen size, language and region settings, and display settings
 - A hashed identifier that isn't linked to your name or Apple ID, and the time the event was received
 
@@ -37,6 +37,20 @@ TelemetryDeck doesn't store IP addresses. Analytics are used to understand how R
 **In your iCloud.** When you're signed in to iCloud, Rin keeps a copy of your goals and habits in your private iCloud database, using Apple's CloudKit, so your garden stays in sync across your devices. We don't run a server that stores your goals or habits, and we can't access your private iCloud database. Apple handles iCloud storage under its [Privacy Policy](https://www.apple.com/legal/privacy/).
 
 **In your widgets.** Rin's home screen widgets read the same data on your device to show your habits and flowers. Nothing from them is sent to us.
+
+## Apple Health
+
+Rin can tick a habit for you when Apple Health shows you've done it, for example once you've walked 8,000 steps today. This is optional and off until you link a habit yourself.
+
+When you link a habit, Rin asks for permission to read only the kind of data that habit needs: steps, exercise minutes, workouts or mindful minutes. Rin never asks to write anything to Apple Health.
+
+- **What Rin reads:** today's total for the linked kind, on your iPhone, to check whether your target has been reached.
+- **What Rin keeps:** only that the habit was ticked, the same as when you tick it yourself. Rin doesn't save your step counts, workouts or any other health readings, and doesn't put them in iCloud.
+- **What Rin shares:** nothing. Health data never leaves your iPhone. It isn't sent to us or to TelemetryDeck, and it's never used for advertising or sold.
+
+Apple Health may wake Rin in the background when new data arrives, so a habit can tick without you opening the app. The same rules apply.
+
+You can unlink a habit any time from its goal (Edit goal → Tick from Apple Health), and turn off Rin's access in the Health app → your profile → Apps → Rin, or in your iPhone's Settings → Health → Data Access & Devices.
 
 ## Notifications
 
